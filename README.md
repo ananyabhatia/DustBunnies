@@ -1,2 +1,2 @@
-# egr101
-Solar panel dust sensor
+# Engineering 101: Duke University 
+Engineering 101: Design and Communication is a course where students learn the basics of engineering and design by being given a problem and a whole semester to innovate a solution in teams. My team was given the problem of dust collection on solar panels, which decreases their efficiency. Our client wanted a sensor that would take pictures of the dust levels at modifiable intervals in order to be used for image analysis. Our solution is simple, low cost, and easy to set up. It involves an Arduino and an ArduCam (a camera module of Arduino). The camera is placed facing upwards at a glass slide which would be placed next to the solar panels in order to accumulate the same amount of dust as the solar panels. The camera takes pictures at modifiable intervals using a Real Time Clock and stores them on an SD card. These pictures can then be used for image analysis. 
