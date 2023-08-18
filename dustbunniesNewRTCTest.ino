@@ -1,3 +1,5 @@
+// BASE CODE CREDIT TO ELI THE COMPUTER GUY: https://www.elithecomputerguy.com/2020/06/arduino-arducam-5mp-time-lapse-camera/
+
 //Modification of Example: ArduCAM_Mini_5MP_Plus_Multi_Capture2SD
 
 #include <Wire.h>
